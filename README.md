@@ -10,10 +10,10 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1200505012  | Mesut YILDIZ			| Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/Mesut16)     |
-| 1190505814  | Yusuf SUBAŞI  | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/yosiniz)     |
-| 1200505036  | Muhammet ACAR  | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/BySwesh)     |
-| 1190505039  | Zehra ABUŞAK  | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/zabusak)     |
+| 1200505012  | Mesut YILDIZ			| Yazılım Mühendisliği     | PROJE_6       | [Github](https://github.com/Mesut16)     |
+| 1190505814  | Yusuf SUBAŞI  | Yazılım Mühendisliği     | PROJE_6       | [Github](https://github.com/yosiniz)     |
+| 1200505036  | Muhammet ACAR  | Yazılım Mühendisliği     | PROJE_6      | [Github](https://github.com/BySwesh)     |
+| 1190505039  | Zehra ABUŞAK  | Yazılım Mühendisliği     | PROJE_6       | [Github](https://github.com/zabusak)     |
 ---
 
 ## Amaç
@@ -32,7 +32,7 @@ Bu proje, görüntü sınıflandırma üzerine odaklanmıştır ve üç farklı 
 
 ## Transfer Learning Kullanımı
 
-- **Önceden Eğitilmiş Model Kullanımı:** Önceden eğitilmiş bir model kullanarak, genel özellikleri ve örüntüleri daha küçük bir veri kümesi üzerinde öğrenmek.
+- **Önceden Eğitilmiş Model Kullanımı:** Önceden eğitilmiş bir model kullanarak (ResNet50V2), genel özellikleri ve örüntüleri daha küçük bir veri kümesi üzerinde öğrenmek.
 - **Veri Verimliliği:** Transfer learning, sınırlı veri kümesi ile çalışırken modelin performansını artırmak için etkili bir yöntemdir.
 
 ## Nasıl Başlamalı
